@@ -46,4 +46,12 @@ Here are some ideas to get you started:
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pittmans1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 <!--START_SECTION:waka-->
+
+```txt
+Vue.js       13 mins         █████████████▒░░░░░░░░░░░   52.73 %
+JSON         8 mins          ████████░░░░░░░░░░░░░░░░░   32.15 %
+JavaScript   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+```
+
 <!--END_SECTION:waka-->
