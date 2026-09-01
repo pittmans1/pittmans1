@@ -4,8 +4,8 @@
 ---
 
 ## 🏅 Professional Badges
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott%20Pittman-blue?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-scottpittman-black?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott%20Pittman-blue?style=for-the-badge)](https://www.linkedin.com/in/scott-pittman)
+[![GitHub](https://img.shields.io/badge/GitHub-pittmans1-black?style=for-the-badge)](https://github.com/pittmans1)
 ![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-0078D7?style=for-the-badge)
 
 ---
